@@ -1,5 +1,5 @@
 # Odin Recipes Project
 
-## Introduction
+Here is a collection of recipes, each on their own page, linked to from a main page.
 
-%% [W]rite a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.) %%
+The purpose of this project is to demonstrate a basic understanding of HTML, git, and GitHub.
