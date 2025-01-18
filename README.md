@@ -7,5 +7,5 @@ The purpose of this project is to demonstrate a basic understanding of HTML, git
 ## Todo
 
 - [ ] Add the actual recipes
-- [ ] Add some pizzazz to the home page
-- [ ] Add CSS
+- [x] Add some pizzazz to the home page
+- [x] Add CSS
