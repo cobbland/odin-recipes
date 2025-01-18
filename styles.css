@@ -1,10 +1,13 @@
 * {
     font-family: Garamond, 'Times New Roman', serif;
+    background-color: #fff8e7;
+    color: #1c1b19;
 }
 
 h1 {
     font-size: xxx-large;
     font-weight: bolder;
+    color: #D14D41;
 }
 
 img {
@@ -13,8 +16,12 @@ img {
     margin-right: auto;
 }
 
+a {
+    color: #006c67;
+}
+
 .sub {
-    color: #00000099;
+    color: #1c1b1999;
 }
 
 #content {
