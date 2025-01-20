@@ -43,16 +43,29 @@ h2,
 
 #nav {
     font-size: large;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+}
+
+#nav > a {
+    padding: 5px 5px 3px;
+    text-decoration: none;
+}
+
+#nav > a:hover {
+    color: #fff8e7;
+    background-color: #006c67;
 }
 
 h1,
-.sub,
-#nav {
+.sub {
     text-align: center;
 }
 
 h2,
 h1,
-#nav {
+#nav > a {
     font-family: Verdana, Arial, sans-serif;
 }
